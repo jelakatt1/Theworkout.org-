@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779837732323",
+    "project_id": "workoutorg-2acfd",
+    "storage_bucket": "workoutorg-2acfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779837732323:android:61593de2ffff3ce04bdcd6",
+        "android_client_info": {
+          "package_name": "com.oracionsworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779837732323-4rs4m6dj6gum39ti75cc0tb2jli52ovs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJQvLjPNXXVDhvvZ0zuSIiL2_osPszXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779837732323-4rs4m6dj6gum39ti75cc0tb2jli52ovs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
